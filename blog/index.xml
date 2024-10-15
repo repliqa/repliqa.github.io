@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Sarzil Hossain</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Sarzil Hossain</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2024, Sarzil Hossain</copyright>
+    <lastBuildDate>Tue, 15 Oct 2024 23:23:50 +0600</lastBuildDate>
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technica Liberatus: My belief about technology</title>
+      <link>/blog/technica-liberatus-motivation/</link>
+      <pubDate>Tue, 15 Oct 2024 23:23:50 +0600</pubDate>
+      <guid>/blog/technica-liberatus-motivation/</guid>
+      <description>&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;/h1&gt;&#xA;&lt;p&gt;Why do we need to liberate technology?&#xA;Technology is in a BAD state. Because of 2 primary issues: some issues are problems with masses while others are technical problems. We discuss both here:&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-issues-with-masses&#34;&gt;1. Issues with Masses:&lt;/h2&gt;&#xA;&lt;p&gt;Have you ever felt like you are stuck in a content loop on social media platforms and you just can&amp;rsquo;t get out of it? Or you can&amp;rsquo;t stop binge watching videos on YouTube?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

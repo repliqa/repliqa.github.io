@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sarzil Hossain</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Sarzil Hossain</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2024, Sarzil Hossain</copyright>
+    <lastBuildDate>Tue, 15 Oct 2024 23:23:50 +0600</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Philosophy</title>
+      <link>/tags/philosophy/</link>
+      <pubDate>Tue, 15 Oct 2024 23:23:50 +0600</pubDate>
+      <guid>/tags/philosophy/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
